@@ -1,4 +1,4 @@
-module github.com/redhat-ai-dev/rosa-namespace-provisioner
+module github.com/redhat-developer/rosa-namespace-provisioner
 
 go 1.24.0
 
